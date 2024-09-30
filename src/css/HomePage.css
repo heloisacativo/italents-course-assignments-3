@@ -1,0 +1,33 @@
+.mainContainer {
+    background-color: #868b6b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    border-radius: 2rem;
+ 
+}
+
+.button {
+    background-color: rgb(100, 92, 21);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-bottom: 0.5rem;
+    width: 20%;
+    border: none;
+}
+
+.button {
+    white-space: nowrap;
+}
+
+.button .iconPlus {
+    width: 10%;
+}
